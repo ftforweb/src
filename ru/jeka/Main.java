@@ -6,6 +6,7 @@ public class Main {
 		Triangle abc = new Triangle();
 		abc.print();
 		abc.perSquare();
+		//1
 	}
 
 }
